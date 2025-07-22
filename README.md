@@ -1,1 +1,1 @@
-# cc_hard_ml_ranking
+# karpov_courses_hard_ml
